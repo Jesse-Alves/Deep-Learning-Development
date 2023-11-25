@@ -15,7 +15,7 @@ def tanhFunction(sum):
 
 
 print("Testing functions:")
+print(" ")
 print(stepFunction(5))
 print(sigmoidFunction(5))
 print(tanhFunction(5))
-
