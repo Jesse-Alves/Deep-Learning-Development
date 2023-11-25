@@ -14,6 +14,7 @@ def tanhFunction(sum):
     return (np.exp(sum) - np.exp(-sum))/(np.exp(sum) + np.exp(-sum))
 
 
+print("Testing functions:")
 print(stepFunction(5))
 print(sigmoidFunction(5))
 print(tanhFunction(5))
